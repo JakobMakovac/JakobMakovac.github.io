@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 50px;
-    background-color: #c8c7ff;
+    background-color: #bdb4ae;
     color: #333;
 }
 h1 {
@@ -13,7 +13,7 @@ h1 {
 .section {
     margin: 20px auto;
     padding: 20px;
-    background-color: #d4d3fd;
+    background-color: #ededed;
     border-radius: 10px;
     text-align: start;
     display: flex;
